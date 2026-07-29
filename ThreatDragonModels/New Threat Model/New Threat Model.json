@@ -12,15 +12,6 @@
     "contributors": [],
     "diagrams": [
       {
-        "id": 0,
-        "title": "New LINDDUN diagram",
-        "diagramType": "LINDDUN",
-        "placeholder": "New LINDDUN diagram description",
-        "thumbnail": "./public/content/images/thumbnail.linddun.jpg",
-        "version": "2.6.2",
-        "cells": []
-      },
-      {
         "id": 1,
         "title": "New STRIDE diagram",
         "diagramType": "STRIDE",
